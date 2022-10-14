@@ -17,7 +17,7 @@ html{
 }
 /* start header */
 .navbar{
-  
+  background-color: white ;
   z-index: 10000;
   align-items: center;
   box-shadow: 0px 8px 5px #888888;
